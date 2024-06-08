@@ -15,22 +15,12 @@ This project was completed on 23.06.2023 and was my graduation project for my Co
 
 ## Examples
 
-![Idle Mode](path_to_your_demo_gif)
-![Cursor Mode](path_to_your_demo_gif)
-![Scroll Mode](path_to_your_demo_gif)
-![Volume Mode](path_to_your_demo_gif)
+![Idle Mode](Idle.jpg)
+![Cursor Mode](Cursor.jpg)
+![Scroll Mode](Scroll.jpg)
+![Volume Mode](Volume.jpg)
 
 ## Installation
-
-### Prerequisites
-
-- Python 3.7+
-- OpenCV
-- MediaPipe
-- PyAutoGUI
-- Pycaw
-- NumPy
-
 ### Setup
 
 1. Clone the repository:
